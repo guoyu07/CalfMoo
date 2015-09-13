@@ -1,6 +1,6 @@
 # CalfMoo
 小牛哞哞叫 - 一个简单的七牛上传工具
-http://windlab.sinapp.com
+http://windlab.sinaapp.com/
 
 ## 介绍
 * 前端 Plupload + Qiniu JS SDK + jQuery
